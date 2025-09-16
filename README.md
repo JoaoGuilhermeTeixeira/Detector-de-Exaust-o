@@ -87,7 +87,5 @@ Interface gráfica
 Otimizações de performance
 Documentação adicional
 
-📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 👨‍💻 Autor
 Desenvolvido com ❤️ para promover segurança e bem-estar.
