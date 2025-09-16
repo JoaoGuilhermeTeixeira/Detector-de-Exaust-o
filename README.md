@@ -346,24 +346,11 @@ img = cv2.resize(img, (640, 480))  # Resolução menor
 
 **Desenvolvido com ❤️ para promover segurança e bem-estar**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-
 *Se este projeto foi útil, considere dar uma ⭐!*
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🔗 **Links Úteis**
-
-[📖 Documentação](docs/) •
-[🐛 Issues](../../issues) •
-[💬 Discussões](../../discussions) •
-[📊 Releases](../../releases)
-
-**Feito com Python 🐍 e muito ☕**
 
 </div>
