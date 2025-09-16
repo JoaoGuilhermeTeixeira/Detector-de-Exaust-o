@@ -1,4 +1,4 @@
-#💤 Detector de Sonolência com Alerta Sonoro
+💤 Detector de Sonolência com Alerta Sonoro
 Este projeto utiliza visão computacional para detectar sinais de sonolência com base na abertura dos olhos. Quando os olhos permanecem fechados por mais de alguns segundos, um alerta sonoro é ativado para chamar a atenção do usuário — ideal para motoristas, estudantes ou profissionais que precisam se manter atentos.
 🎯 Objetivo
 Detectar automaticamente quando uma pessoa está com os olhos fechados por tempo prolongado e emitir um alerta sonoro para evitar acidentes ou perda de foco.
