@@ -78,7 +78,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/detector-sonolencia.git
+git clone https://github.com/JoaoGuilhermeTeixeira/Detector-de-Exaust-o.git
 cd detector-sonolencia
 
 # Instale as dependências
