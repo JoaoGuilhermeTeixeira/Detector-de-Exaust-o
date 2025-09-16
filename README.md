@@ -13,8 +13,7 @@
 [🚀 Demo](#-demo) •
 [📋 Instalação](#-instalação) •
 [⚙️ Como Usar](#️-como-usar) •
-[🔧 Configuração](#-configuração) •
-[🤝 Contribuir](#-contribuindo)
+[🔧 Configuração](#-configuração) 
 
 </div>
 
@@ -327,14 +326,6 @@ img = cv2.resize(img, (640, 480))  # Resolução menor
 ---
 
 ## 📜 **Licença**
-
-<div align="center">
-
-**MIT License** © 2024
-
-*Este projeto está sob a licença MIT. Consulte [LICENSE](LICENSE) para mais informações.*
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
