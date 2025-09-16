@@ -322,11 +322,6 @@ img = cv2.resize(img, (640, 480))  # Resolução menor
 - 🎨 **Interface/UX**
 - ⚡ **Performance**
 - 🧪 **Testes**
-
----
-
-## 📜 **Licença**
-
 </div>
 
 ---
